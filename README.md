@@ -11,7 +11,7 @@
 
 <br>
 
-Current opus is Wyvern, a 3D Game Engine focusing on (homebrew) cross-compatibility and easy of use. "write once, run everywhere"  
+Mostly working on [Wyvern](https://github.com/argoreofficial/wyvern), a C++ 3D game engine with a focus on rendering speed and ease of use  
 Occasionally doing some small projects, most often system or platform related stuff, like [template-based C++ reflection](https://github.com/ArgoreOfficial/Reflection) or a [PlayStation 1 premake script](https://github.com/ArgoreOfficial/PSn00bSDK-Premake).
 
 I wish to branch out my platform knowledge in the future, having only developed for Windows, Web (Emscripten), and PlayStation 5. Wyvern is one such project.
