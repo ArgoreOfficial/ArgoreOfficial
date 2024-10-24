@@ -7,11 +7,13 @@
 > If it's worth doing, it's worth overdoing.  
 > \- Ayn Rand
 
-## C++ Engine Developer  
+## C/C++ Engine Developer  
 
+[![Top Langs](https://github-readme-stats-tokend.vercel.app/api/top-langs/?username=ArgoreOfficial&layout=compact&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 Mostly working on [Wyvern](https://github.com/argoreofficial/wyvern), a C++ 3D game engine with a focus on rendering speed and ease of use  
 Occasionally doing some small projects, most often system or platform related stuff, like [template-based C++ reflection](https://github.com/ArgoreOfficial/Reflection) or a [PlayStation 1 premake script](https://github.com/ArgoreOfficial/PSn00bSDK-Premake).
 
-I wish to branch out my platform knowledge in the future, having only developed for Windows, Web (Emscripten), and PlayStation 5. Wyvern is one such project.
+I wish to branch out my platform knowledge in the future, having only developed for Windows, Web (Emscripten), and PlayStation 5. 
+
