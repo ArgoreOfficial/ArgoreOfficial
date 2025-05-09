@@ -4,7 +4,7 @@
 > \- Ayn Rand
 
 ## Graphics & Engine Programmer  
-I make low level code that may or may not crash your graphics card.  
+I put the beep in the boop.  
 
 
 Platforms:
